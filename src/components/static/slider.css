@@ -1,0 +1,14 @@
+.slider {
+  border-radius: 12px;
+  width: 400px;
+  margin-right: 10px;
+  text-align: center;
+  color: black;
+  height: 45px;
+}
+
+#customRange3 {
+  accent-color: red;
+  width: 100%;
+  margin-left: 10%;
+}

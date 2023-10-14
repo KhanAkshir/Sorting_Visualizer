@@ -1,0 +1,29 @@
+.b
+{
+    /* display: inline-block; */
+    margin-right: 20px;
+}
+button{
+    padding: 7px;
+    padding-left:11px;
+    padding-right: 11px;
+    border: none;
+    border-radius: 10px;
+    background-color: black;
+    color: #301e67;
+    font-weight: bold;
+    color:white;
+}
+
+button:hover
+{
+    background-color: red;
+    color: white;
+    
+}
+
+button:disabled
+{
+    background-color: #F5F5DC;
+    color:black;
+}
